@@ -1,5 +1,13 @@
 # **Google reCAPTCHA Fully Requests Based Solver**
 
+## Contact
+
+For any questions, issues, or feature requests, feel free to open an issue or contact me at:
+
+- **GitHub**: [catcha8](https://github.com/catcha8)
+- **Discord**: [discord](https://discord.gg/XuGAPnAP45)
+
+---
 ## Release
 
 This project isn't fully finished right now, I need to train a lot more the AI. I'll let you know...
@@ -56,13 +64,3 @@ https://github.com/user-attachments/assets/797035c5-45d2-458f-9ee5-4d6210cccb04
 ## Disclaimer
 
 This project is **not affiliated** with Google or any CAPTCHA service. It is designed as a tool for educational purposes and should only be used responsibly. **Using this tool to circumvent CAPTCHA protections may violate the terms of service of various websites.** Always ensure you're in compliance with legal and ethical standards before using such tools.
-
----
-
-## Contact
-
-For any questions, issues, or feature requests, feel free to open an issue or contact me at:
-
-- **GitHub**: [catcha8](https://github.com/catcha8)
-- **Discord**: [discord](https://discord.gg/XuGAPnAP45)
-  
