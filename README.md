@@ -1,11 +1,11 @@
-# **Google reCAPTCHA Fully Requests Based Solver**
+# **Google reCAPTCHA Fully Requests Based Solver | 2 december update !!**
 
 ## Contact
 
 For any questions, issues, or feature requests, feel free to open an issue or contact me at:
 
 - **GitHub**: [catcha8](https://github.com/catcha8)
-- **Discord**: [discord](https://discord.gg/XuGAPnAP45)
+- **Discord**: catcha80
 
 ---
 ## Release
@@ -37,7 +37,7 @@ The solver works by mimicking real user interactions with reCAPTCHA services, by
 ## Preview 
 
 
-
+<img width="1640" height="584" alt="image" src="https://github.com/user-attachments/assets/61ad3d65-54a5-4df6-a32f-5fda41e3f645" />
 https://github.com/user-attachments/assets/797035c5-45d2-458f-9ee5-4d6210cccb04
 
 
