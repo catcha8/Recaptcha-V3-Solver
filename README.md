@@ -38,6 +38,9 @@ The solver works by mimicking real user interactions with reCAPTCHA services, by
 
 
 <img width="1640" height="584" alt="image" src="https://github.com/user-attachments/assets/61ad3d65-54a5-4df6-a32f-5fda41e3f645" />
+
+
+
 https://github.com/user-attachments/assets/797035c5-45d2-458f-9ee5-4d6210cccb04
 
 
