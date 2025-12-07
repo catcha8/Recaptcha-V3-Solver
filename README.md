@@ -1,4 +1,4 @@
-# **Google reCAPTCHA Fully Requests Based Solver | 2 december update !!**
+# **Google reCAPTCHA Fully Requests Based Solver | Last update: 07.12.2025 !!**
 
 ## Contact
 
@@ -6,15 +6,6 @@ For any questions, issues, or feature requests, feel free to open an issue or co
 
 - **GitHub**: [catcha8](https://github.com/catcha8)
 - **Discord**: catcha80 or [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
-- 
----
-
-## Overview
-This repository provides an advanced solution for solving Google's reCAPTCHA v2/v3. The system is designed for developers who need to bypass reCAPTCHA and BotGuard challenges in an automated, reliable, and efficient manner.
-
-The solver works by mimicking real user interactions with reCAPTCHA services, bypassing security mechanisms using server-side requests and reverse-engineering techniques. This tool is particularly useful for automating tasks in environments where CAPTCHA protection is present, such as form submissions, web scraping, and automated testing.
-
-⚠️ **Important:** This tool is intended for educational purposes only. Ensure that you comply with Google's Terms of Service and applicable laws before using it in any production or commercial environment.
 
 ---
 
