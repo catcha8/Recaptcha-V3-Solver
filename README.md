@@ -5,12 +5,9 @@
 For any questions, issues, or feature requests, feel free to open an issue or contact me at:
 
 - **GitHub**: [catcha8](https://github.com/catcha8)
-- **Discord**: catcha80
-
+- **Discord**: catcha80 or [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
+- 
 ---
-## Release
-
-This project isn't fully finished right now, I need to train a lot more the AI. I'll let you know...
 
 ## Overview
 This repository provides an advanced solution for solving Google's reCAPTCHA v2/v3. The system is designed for developers who need to bypass reCAPTCHA and BotGuard challenges in an automated, reliable, and efficient manner.
@@ -18,6 +15,15 @@ This repository provides an advanced solution for solving Google's reCAPTCHA v2/
 The solver works by mimicking real user interactions with reCAPTCHA services, bypassing security mechanisms using server-side requests and reverse-engineering techniques. This tool is particularly useful for automating tasks in environments where CAPTCHA protection is present, such as form submissions, web scraping, and automated testing.
 
 ⚠️ **Important:** This tool is intended for educational purposes only. Ensure that you comply with Google's Terms of Service and applicable laws before using it in any production or commercial environment.
+
+---
+
+## Preview 
+
+<img width="1649" height="700" alt="image" src="https://github.com/user-attachments/assets/45ae33d4-c8f3-4238-81a9-01f4d00d71e1" />
+
+
+https://github.com/user-attachments/assets/797035c5-45d2-458f-9ee5-4d6210cccb04
 
 ---
 
@@ -31,19 +37,6 @@ The solver works by mimicking real user interactions with reCAPTCHA services, by
 - **Request-based Solving**: Completely server-side and API-based, requiring no manual interaction.
 - **Proxy Support**: Supports rotating proxies to avoid IP bans and to simulate multiple users.
 - **High Success Rate**: Implements intelligent fallback mechanisms to increase the solving success rate for reCAPTCHA and BotGuard.
-
----
-
-## Preview 
-
-
-<img width="1640" height="584" alt="image" src="https://github.com/user-attachments/assets/61ad3d65-54a5-4df6-a32f-5fda41e3f645" />
-
-
-
-https://github.com/user-attachments/assets/797035c5-45d2-458f-9ee5-4d6210cccb04
-
-
 
 ---
 
